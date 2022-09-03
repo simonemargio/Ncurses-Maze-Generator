@@ -1,4 +1,4 @@
-# Database RisiKo
+# Ncurses Maze Generator
 
 ## Index
 ### Documentation
